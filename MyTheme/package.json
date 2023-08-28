@@ -1,0 +1,16 @@
+{
+  "name": "MyTheme",
+  "version": "1.0",
+  "description": "Cutom Theme",
+  "main": "index.js",
+  "author": "K.O.Dev <osipenkokonstantin91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "5.3.1",
+    "browser-sync": "^2.29.3",
+    "fancybox": "^3.0.1",
+    "jquery": "^3.7.1",
+    "slick-carousel": "^1.8.1",
+    "watch": "^1.0.2"
+  }
+}
