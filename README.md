@@ -1,2 +1,2 @@
 # myTheme
-Current theme based on bootsrap for starting project use in console next comand: yarn install
+Current theme based on WebPack for starting project use in console next: yarn install
